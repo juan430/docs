@@ -1,4 +1,4 @@
----
+@juan430---
 title: Using extensions to integrate external tools with Copilot Chat
 intro: 'You can use {% data variables.product.prodname_copilot_extensions_short %} to interact with external tools in {% data variables.product.prodname_copilot_chat %}.'
 product: '{% data reusables.gated-features.copilot-extensions %}'
